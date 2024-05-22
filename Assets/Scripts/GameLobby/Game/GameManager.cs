@@ -11,7 +11,7 @@ using Unity.Services.Lobbies.Models;
 using Unity.Services.Samples;
 using UnityEngine;
 #if UNITY_EDITOR
-using ParrelSync;
+//using ParrelSync;
 
 #endif
 
